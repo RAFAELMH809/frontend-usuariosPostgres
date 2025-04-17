@@ -1,4 +1,4 @@
-var url = "http://localhost:3000/api/users";
+var url = "https://pg-restapi-axzt.onrender.com/api/users";
 let selectedUserId = null;
 
 function postUser() {
